@@ -1,11 +1,38 @@
-# Sample Snack app
+# 📊 DSA Visualizer App
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+A React Native app that visualizes sorting algorithms (currently Insertion Sort and Bubble Sort) with interactive animations and explanations.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+---
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+## ✨ Features
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+- 🔄 **Interactive visualization** of Insertion Sort and Bubble Sort
+- 🧠 **Step-by-step animation** with educational explanations
+- 🧩 **Array manipulation** – add, edit, and delete elements
+- 🌗 **Dark/Light theme toggle**
+- 🧭 **Multi-screen navigation** using React Navigation
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+---
+
+## 📸 Screenshots
+
+> Make sure the image files exist at `assets/screenshots/` and are committed to your Git repository.
+
+### 🏠 Home Screen
+![Home Screen](assets/screenshots/home.png)
+
+### 📊 Sort Visualizer
+![Sort Visualizer](assets/screenshots/visualizer.png)
+
+### ⚙️ Settings
+![Settings](assets/screenshots/settings.png)
+
+---
+
+## ⚙️ Setup
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/DSAVisualizer.git
+cd DSAVisualizer
