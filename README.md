@@ -32,5 +32,5 @@ A React Native app that visualizes sorting algorithms (currently Insertion Sort 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/DSAVisualizer.git
+https://github.com/VikramKanaujiya/DSAVisualiser.git
 cd DSAVisualizer
