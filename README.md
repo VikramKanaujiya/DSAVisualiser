@@ -16,8 +16,6 @@ A React Native app that visualizes sorting algorithms (currently Insertion Sort 
 
 ## 📸 Screenshots
 
-> Make sure the image files exist at `assets/screenshots/` and are committed to your Git repository.
-
 ### 🏠 Home Screen
 ![Home Screen](assets/screenshots/home.png)
 
